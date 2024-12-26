@@ -77,9 +77,6 @@ Publish the website in the LocalHost.
 </html>
 
 
-
-
-<!-- Main Content Section -->
 <div class="container mt-4">
     <div class="text-center mb-4 header-section" style="width: 300;"height="200"></div>
     <center>
@@ -93,9 +90,7 @@ Publish the website in the LocalHost.
     <a href="#" class="btn btn-primary">Designs</a>
     </center>
     <br>
-    <!-- Gallery Section -->
     <div class="row gallery-section">
-        <!-- Gallery Items (8 items in total) -->
         <div class="col-md-3 col-sm-6 mb-4">
             <div class="card shadow gallery-item">
                 <img src="web 2.jpeg" class="card-img-top gallery-img" alt="Design Thumbnail">
